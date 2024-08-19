@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Python , C++ and Node.js**
+- 🌱 I’m currently learning **React.js, Python , C++ and Node.js**
 
 - 💬 Ask me about **HTML , CSS , JavaScript , C , C++**
 
