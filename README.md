@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bipan.neupane0101@gmail.com**
 
-- ⚡ Fun fact **I love Coffee and Coding also I think I am boring.**
+- ⚡ Fun fact **I love Coffee, Chess and Coding also I think I am boring.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
