@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bipan101&show_icons=true&locale=en" alt="bipan101" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipan101&" alt="bipan101" /></p>
+
+[![An image of @bipan101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bipan101)](https://holopin.io/@bipan101)
