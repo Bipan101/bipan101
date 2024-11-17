@@ -31,3 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipan101&" alt="bipan101" /></p>
 
 [![An image of @bipan101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bipan101)](https://holopin.io/@bipan101)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="754f0401-f5b6-43f6-a7f6-75bc2c8b9412" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
