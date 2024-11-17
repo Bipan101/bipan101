@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bipan Neupane</h1>
+why<h1 align="center">Hi 👋, I'm Bipan Neupane</h1>
 <h3 align="center">A passionate frontend web developer from Nepal</h3>
 <img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -32,4 +32,3 @@
 
 [![An image of @bipan101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bipan101)](https://holopin.io/@bipan101)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="754f0401-f5b6-43f6-a7f6-75bc2c8b9412" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
