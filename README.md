@@ -39,3 +39,5 @@
 
 [![An image of @bipan101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bipan101)](https://holopin.io/@bipan101)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1600">
+
