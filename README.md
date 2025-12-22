@@ -1,10 +1,11 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1200" height="300" alt="animated hello">
-
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1200" height="300" alt="animated hello"> -->
+<h1 align="center">Hi 👋, I'm Bipan Neupane</h1>
+<h3 align="center">A passionate FullStack web developer and AI/ML enthusiast from Nepal</h3>
+<br>
 ![snake gif](github-snake-dark.svg)
 
 
-<h1 align="center">Hi 👋, I'm Bipan Neupane</h1>
-<h3 align="center">A passionate FullStack web developer and AI/ML enthusiast from Nepal</h3>
+
 <!-- <img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipan101&label=Profile%20views&color=0e75b6&style=flat" alt="bipan101" /> </p>
