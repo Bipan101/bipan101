@@ -86,6 +86,10 @@ bipan = {
 </div>
 
 ---
+<div align="center">
+<img src="https://holopin.me/bipan101" alt="Holopin Badges" width="600"/>
+</div>
+
 
 <div align="center">
 
