@@ -71,13 +71,18 @@ bipan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bipan101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bipan101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="170"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://bipanstat.vercel.app/api?username=Bipan101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&count_private=true" alt="Bipan's GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://bipanstat.vercel.app/api/top-langs/?username=Bipan101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Bipan101&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"/>
+<img src="https://streak-stats.demolab.com?user=Bipan101&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 
