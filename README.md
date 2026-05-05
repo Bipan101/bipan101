@@ -11,6 +11,7 @@
 </div>
 
 ---
+![snake gif](github-snake-dark.svg)
 
 ## 👾 About Me
 
