@@ -90,7 +90,7 @@ bipan = {
 ---
 
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph (Monthly Basis)
 
 <div align="center">
 
