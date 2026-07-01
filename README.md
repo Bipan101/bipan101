@@ -18,7 +18,7 @@
 ```python
 bipan = {
     "name":       "Bipan Neupane",
-    "role":       "Aspiring ML Engineer",
+    "role":       "ML Engineer",
     "location":   "Kathmandu, Nepal 🇳🇵",
     "learning":   ["Machine Learning", "Django"],
     "stack":      ["Python", "MERN", "C/C++", "JavaScript"],
